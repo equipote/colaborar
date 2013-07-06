@@ -1,4 +1,25 @@
+*~
+*.swp
 *.log
 *.pot
 *.pyc
+*.bak
+*.mo
+
+ChangeLog
+.sass-cache
+
+# Personalizaciones
+# ~~~~~~~~~~~~~~~~~
+settings_local.py
 local_settings.py
+*.db
+
+000.STATUS.py
+DATABASES.py
+SECRET_KEY.py
+GMAIL.py
+
+virtualenv
+
+media/uploads/*
