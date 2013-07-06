@@ -1,0 +1,16 @@
+Django==1.5.1
+South==0.8.1
+argparse==1.2.1
+distribute==0.6.34
+django-debug-toolbar==0.9.4
+django-debug-toolbar-extra==0.0.2
+django-debug-toolbar-user-panel-fc==1.0.1
+django-dtpanel-htmltidy==0.1.1
+django-extensions==1.1.1
+django-flatpages-i18n==0.1.2
+django-menu==0.1.7
+django-modeltranslation==0.6.1
+gunicorn==17.5
+pytidylib==0.2.1
+six==1.3.0
+wsgiref==0.1.2
