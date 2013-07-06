@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-06 21:50+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: portal/settings.d/USE_I18N.py:28
+msgid "Spanish"
+msgstr ""
+
+#: portal/settings.d/USE_I18N.py:29
+msgid "English"
+msgstr ""
+
+#: templates/base-fundacion.html:55
+msgid "Go"
+msgstr ""
+
+#: templates/base-fundacion.html:64
+msgid "banner"
+msgstr ""
+
+#: templates/base-fundacion.html:66
+msgid "Buscador"
+msgstr ""
+
+#: templates/base-fundacion.html:97
+msgid "clear"
+msgstr ""
+
+#: templates/base.html:10
+msgid "COlaborate"
+msgstr ""
+
+#: templates/base.html:59
+msgid "Project name"
+msgstr ""
+
+#: templates/base.html:62
+msgid "Home"
+msgstr ""
+
+#: templates/base.html:63
+msgid "About"
+msgstr ""
+
+#: templates/base.html:64
+msgid "Contact"
+msgstr ""
+
+#: templates/base.html:67
+msgid "Dropdown"
+msgstr ""
+
+#: templates/base.html:69
+msgid "Action"
+msgstr ""
+
+#: templates/base.html:70
+msgid "Another action"
+msgstr ""
+
+#: templates/base.html:71
+msgid "Something else here"
+msgstr ""
+
+#: templates/base.html:73
+msgid "Nav header"
+msgstr ""
+
+#: templates/base.html:74
+msgid "Separated link"
+msgstr ""
+
+#: templates/base.html:75
+msgid "One more separated link"
+msgstr ""
+
+#: templates/base.html:82
+msgid "Sign in"
+msgstr ""
+
+#: templates/debug_toolbar_extra/panels/print_template_name_panel.html:3
+msgid ""
+"See the source code of the page. There will be a comment to begin of every "
+"template and in the final. Something like this:"
+msgstr ""
